@@ -12,5 +12,6 @@ You can also check out my [personal website](https://bastienlc.github.io/) or my
 * [MOPSI](https://github.com/bastienlc/MOPSI): integer linear programming for a students housing problem.
 
 ### Personal projects
-* [pdf-watermark](https://github.com/bastienlc/pdf-watermark): a small python CLI to add watermarks to a pdf.
-* [tasks manager](https://github.com/bastienlc/tasks_manager): a small web app to showcase my skills in web development.
+* [pdf-watermark](https://github.com/bastienlc/pdf-watermark): python CLI to add watermarks to a pdf.
+* [tasks manager](https://github.com/bastienlc/tasks_manager): tasks manager web app to showcase my skills in web development.
+* [django-nextjs-dashboard](https://github.com/bastienlc/django-nextjs-dashboard): charts dashboard to showcase my skills in web development.
