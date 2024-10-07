@@ -13,5 +13,6 @@ You can also check out my [personal website](https://bastienlc.github.io/) or my
 
 ### Personal projects
 * [pdf-watermark](https://github.com/bastienlc/pdf-watermark): python CLI to add watermarks to a pdf.
+* [indentalog](https://github.com/bastienlc/indentalog): an easy-to-use progress logger for python that keeps track of the call stack.
 * [tasks manager](https://github.com/bastienlc/tasks_manager): tasks manager web app to showcase my skills in web development.
 * [django-nextjs-dashboard](https://github.com/bastienlc/django-nextjs-dashboard): charts dashboard to showcase my skills in web development.
